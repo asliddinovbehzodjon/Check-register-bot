@@ -1,7 +1,7 @@
 import telebot
 
 
-bot=telebot.TeleBot(token='1955445317:AAG1t5jNxvDPUljV-dd_cHRKIEZ3-l7sHtM')
+bot=telebot.TeleBot(token='API token')
 
 from handler import *
 
